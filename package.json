@@ -107,5 +107,8 @@
       "\\.(s?css)$": "identity-obj-proxy"
     },
     "testEnvironment": "jsdom"
+  },
+  "volta": {
+    "node": "16.19.0"
   }
 }
